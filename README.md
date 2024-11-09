@@ -130,12 +130,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
 
-### Instructions for Use
-
-1. **Copy the content** into a file named `README.md` in your project directory.
-2. **Modify any placeholders** (like `<repository-url>` and `<repository-directory>`) with actual values relevant to your project.
-3. **Save the file**. 
-
-This `README.md` provides an overview, installation instructions, usage details, and project insights, making it easy for others to understand and contribute to your project.
