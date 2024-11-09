@@ -59,10 +59,8 @@ graph TD;
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
+   git clone https://github.com/sws121-logo/saurabh-kumar-wasserstoff-AiTask.git
+   
 2. **Create a Virtual Environment**:
    ```bash
    python -m venv venv
